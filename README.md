@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Nuxt.js, Vue.js, Scss, vuetify**
+- 🌱 stack : Angular React HTML JAVA JS/TS CSS/SCSS 
 
 - 📫 How to reach me **szojda.98@gmail.com**
 
